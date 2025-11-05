@@ -50,3 +50,7 @@ ul {
 .section-title {
     color: var(--color-primary-dark);
 }
+
+.section-title .accent {
+    color: var(--color-brand-dark);
+}
